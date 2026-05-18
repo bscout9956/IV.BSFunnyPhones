@@ -20,12 +20,14 @@ It's a requirement, besides, GTA IV without it plays poorly.
 # Observations:
 
 This mod will replace existing phone backgrounds. I tried to replace the ones that I believe people use the least.
+
 (Hooters Club, The CNT one, The bling one and the Rusty Donuts one)
+
 If feedback is positive enough, I could create new ones! I'm open to suggestions.
 
 # Disclaimer
 This mod is not endorsed by or affiliated with any of the following parties:
-    - Take-Two Interactive
-    - Strauss Zelnick
-    - GTAForums/GTANet
-    - Circoloco Records
+- Take-Two Interactive
+- Strauss Zelnick
+- GTAForums/GTANet
+- Circoloco Records
