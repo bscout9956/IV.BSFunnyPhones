@@ -15,7 +15,7 @@ GTAForums Theme
 1. Make sure you have Fusion Fix installed.
 It's a requirement, besides, GTA IV without it plays poorly.
 2. Extract the zip folder anywhere.
-3. Copy the PhoneBGs folder to your GTAIV folder, wherever it may be.
+3. Copy the BSFunnyPhonesIV folder to your GTA IV/update folder, wherever it may be.
 
 # Observations:
 
