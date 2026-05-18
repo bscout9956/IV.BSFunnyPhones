@@ -4,8 +4,11 @@ Repository to distribute the mod Funny Phone Backgrounds for GTA IV.
 # Included Backgrounds:
 
 GTA VI - Sunrise Theme
+
 Circoloco Records
+
 Take-Two Interactive - Strauss' Theme
+
 GTAForums Theme
 
 # Installation Instructions:
